@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidRetrofitRestApi</string>
+    <string name="title_home">Пользователи</string>
+    <string name="title_about">О программе</string>
+    <string name="fragmentAboutTextView">Тестовое задание для Rentateam</string>
+    <string name="noData">нет данных</string>
+    <string name="loadData">Обновление данных</string>
+    <string name="updatedNow">Обновлено только что</string>
+    <string name="offlineMode">\"офлайн режим. Обновлено - \"</string>
+</resources>
